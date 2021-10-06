@@ -11,7 +11,7 @@ group :development do
   gem 'sass-globbing', '~> 1.0'
   gem 'rubypants', '~> 0.2'
   gem 'rb-fsevent', '~> 0.9'
-  gem 'stringex', '~> 1.4'
+  gem 'stringex', '~> 2.8'
   gem 'execjs'
   gem 'therubyracer', :platforms => :ruby
   gem 'coderay'
